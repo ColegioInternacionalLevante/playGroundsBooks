@@ -2,8 +2,13 @@
     "title": "Playgrounds Colegio Internacional Levante",
     "subtitle": "Libreria de Swift Playground",
     "publisherName": "Colegio Internacional de Levante",
+<<<<<<< HEAD
     "feedIdentifier": "es.rodrigoegido.swift",
     "contactURL": "http://www.rodrigoegido.es",
+=======
+    "feedIdentifier": "io.github.colegiointernacionallevante.playGroundsBooks",
+    "contactURL": "mailto:regido@seklevante.com",
+>>>>>>> d231d385fffd1f4781ac65605e751f41fa586ffa
     "formatVersion": "1.0",
     "documents": [
                   {
@@ -25,6 +30,7 @@
                                             }
                                             ],
                   "previewImageURLs": []
+<<<<<<< HEAD
                   },
                   {
                    "title": "01 Motores",
@@ -51,3 +57,8 @@
                     }
 ]
 }
+=======
+                  }
+				]
+}
+>>>>>>> d231d385fffd1f4781ac65605e751f41fa586ffa
