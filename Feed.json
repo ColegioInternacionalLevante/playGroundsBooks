@@ -1,0 +1,64 @@
+{
+    "title": "Playgrounds Colegio Internacional Levante",
+    "subtitle": "Libreria de Swift Playground",
+    "publisherName": "Colegio Internacional de Levante",
+<<<<<<< HEAD
+    "feedIdentifier": "es.rodrigoegido.swift",
+    "contactURL": "http://www.rodrigoegido.es",
+=======
+    "feedIdentifier": "io.github.colegiointernacionallevante.playGroundsBooks",
+    "contactURL": "mailto:regido@seklevante.com",
+>>>>>>> d231d385fffd1f4781ac65605e751f41fa586ffa
+    "formatVersion": "1.0",
+    "documents": [
+                  {
+                  "title": "El huevo o la gallina",
+                  "overviewSubtitle": "Programación como herramienta transversal",
+                  "detailSubtitle": "ProgramaciÃ³n como herramienta transversal.",
+                  "description": "EnseÃ±a conceptos de programaciÃ³n del lenguaje Swift mientras repasas contenidos de otras asignaturas",
+                  "contentIdentifier": "es.rodrigoegido.swift.Huevo-Gallina",
+                  "contentVersion": "1.0",
+                  "url": "https://swift.rodrigoegido.es/CIL/Huevo-Gallina/Huevo-Gallina.playgroundbook.zip",
+                  "publishedDate": "2018-02-02T21:13:57+00:00",
+                  "lastUpdatedDate": "2018-02-02T21:13:57+00:00",
+                  "thumbnailURL": "https://swift.rodrigoegido.es/CIL/Huevo-Gallina/thumbnail.png",
+                  "bannerImageURL": "https://swift.rodrigoegido.es/CIL/Huevo-Gallina/banner.png",
+                  "additionalInformation": [
+                                            {
+                                            "name": "Idiomas",
+                                            "value": "Espa\u00f1ol,Ingl\u00e9s,Valenciano"
+                                            }
+                                            ],
+                  "previewImageURLs": []
+<<<<<<< HEAD
+                  },
+                  {
+                   "title": "01 Motores",
+                   "overviewSubtitle": "Programa tu EV3 con codigo Swift",
+                   "detailSubtitle": "Programa tu EV3 con codigo Swift.",
+                   "description": "Aprende a programar con Swift los motores de tu EV3 Mindstorm",
+                   "contentIdentifier": "es.rodrigoegido.swift.01Motores",
+                   "contentVersion": "1.0",
+                   "sha512":"bc6c2d578fa1613c1cb54b1eee89257d5a7dd9ae95c0b8cba2ffd3c0a7c2338485aa8043834083a46e4c616b4c18c629be48c12ea459f1d84d728a492cf04f32",
+                   "url": "https://swift.rodrigoegido.es/CIL/EV3/01Motores.playgroundbook.zip",
+                   "publishedDate": "2018-02-15T21:13:57+00:00",
+                   "lastUpdatedDate": "2018-02-15T21:13:57+00:00",
+                   "thumbnailURL": "https://swift.rodrigoegido.es/CIL/EV3/StoreBanner.jpeg",
+                   "bannerImageURL": "https://swift.rodrigoegido.es/CIL/EV3/StoreBanner.jpeg",
+                   "additionalInformation": [
+                               {
+                               "name": "Idiomas",
+                               "value": "Espa\u00f1ol,Ingl\u00e9s"
+                               }
+                               ],
+    				        "previewImageURLs": [
+                          "https://swift.rodrigoegido.es/CIL/EV3/StoreBanner.jpeg"
+                          ]
+                    }
+]
+}
+=======
+                  }
+				]
+}
+>>>>>>> d231d385fffd1f4781ac65605e751f41fa586ffa
