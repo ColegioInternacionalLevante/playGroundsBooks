@@ -1,0 +1,88 @@
+{
+    "title": "WWDC Photo Filters",
+    "publisherName": "Holly and Grace",
+    "feedIdentifier": "io.github.WWDCPhotoFilters",
+    "contactURL": "mailto:example@apple.com",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "Image Transitions",
+            "overviewSubtitle": "CIFilters in the Transition Category.",
+            "detailSubtitle": "Filters in CICategoryTransition.",
+            "description": "Learn some ways to use Core Image to transition between images.",
+            "contentIdentifier": "io.github.WWDCPhotoFilters.imageTransitions",
+            "contentVersion": "1.0",
+            "url": "https://WWDCPhotoFilters.github.io/ImageTransitions/ImageTransitions.playgroundbook.zip",
+            "publishedDate": "2018-05-18T12:00:00+00:00",
+            "lastUpdatedDate": "2018-05-18T12:00:00+00:00",
+            "thumbnailURL": "ImageTransitions/thumbnail.png",
+            "bannerImageURL": "ImageTransitions/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
+        },
+        {
+    		"title": "Intro to Core Image",
+			"overviewSubtitle": "Learn the basics of Core Image.",
+			"detailSubtitle": "Learn about Apple’s Core Image framework.",
+			"description": "Part of a series of playgrounds around image filtering.",
+			"contentIdentifier": "io.github.WWDCPhotoFilters.introToCoreImage",
+			"contentVersion": "1.0",
+    		"url": "https://WWDCPhotoFilters.github.io/IntrotoCI/IntrotoCI.playgroundbook.zip",
+    		"publishedDate": "2018-05-31T08:40:00-07:00",
+   			"lastUpdatedDate": "2018-05-31T08:40:00-07:00",
+   	 	    "thumbnailURL": "IntrotoCI/thumbnail.png",
+   	 		"bannerImageURL": "IntrotoCI/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Made for",
+                    "value": "WWDC18"
+                }
+            ],
+            "previewImageURLs": []
+        },
+        {
+    		"title": "Test Out CIFilters!",
+    		"overviewSubtitle": "Try some of the CIFilters built into the Core Image framework.",
+			"detailSubtitle": "A book of CIFilters over live camera output.",
+    		"description": "Go through some of the CIFilters available to you within the Core Image framework.",
+    		"contentIdentifier": "io.github.WWDCPhotoFilters.testOutCIFilters",
+    		"contentVersion": "1.0",
+    		"url": "https://WWDCPhotoFilters.github.io/TestOutCIFilters/TestOutCIFilters.playgroundbook.zip",
+    		"publishedDate": "2018-05-31T08:40:00-07:00",
+   			"lastUpdatedDate": "2018-05-31T08:40:00-07:00",
+   	 	    "thumbnailURL": "TestOutCIFilters/thumbnail.png",
+   	 		"bannerImageURL": "TestOutCIFilters/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
+        },
+        {
+    "title": "Content Aware Resizing",
+    "overviewSubtitle": "Try out content aware resizing in Swift.",
+    "description": "Use the seam carving algorithm to intelligently resize images.",
+    "contentIdentifier": "io.github.WWDCPhotoFilters.contentAwareResizing",
+    "contentVersion": "1.0",
+    "url": "https://WWDCPhotoFilters.github.io/ContentAwareResizing/ContentAwareResizing.playgroundbook.zip",
+    "publishedDate": "2018-06-08T09:40:00-07:00",
+    "lastUpdatedDate": "2018-06-08T09:40:00-07:00",
+    "thumbnailURL": "ContentAwareResizing/thumbnail.png",
+    "bannerImageURL": "ContentAwareResizing/bannerImage.png",
+    "additionalInformation": [
+        {
+            "name": "Languages",
+            "value": "English"
+        }
+    ],
+    "previewImageURLs": []
+}
+    ]
+}
