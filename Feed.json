@@ -1,0 +1,30 @@
+{
+  "title" : "Playgrounds Colegio Internacional Levante",
+  "subtitle" : "Libreria de Swift Playground",
+  "publisherName" : "Colegio Internacional de Levante",
+  "feedIdentifier" : "io.github.colegiointernacionallevante.playGroundsBooks",
+  "contactURL" : "https://colegiointernacionallevante.github.io/playGroundsBooks",
+  "formatVersion" : "1.0",
+  "documents" : [
+    {
+      "title" : "El huevo o la gallina",
+      "overviewSubtitle" : "Programación como herramienta transversal",
+      "detailSubtitle" : "Programación como herramienta transversal.",
+      "description" : "Enseña conceptos de programación del lenguaje Swift mientras repasas contenidos de otras asignaturas",
+      "contentIdentifier" : "io.github.colegiointernacionallevante.PlaygroundsBooks.Huevo-Gallina",
+      "contentVersion" : "1.0",
+      "url" : "https://colegiointernacionallevante.github.io/playGroundsBooks/Huevo-Gallina.playgroundbook.zip",
+      "publishedDate" : "2018-02-02T21:13:57+00:00",
+      "lastUpdatedDate" : "2018-07-02T13:00:00+00:00",
+      "thumbnailURL" : "http://colegiointernacionallevante.github.io/playGroundsBooks/Huevo-Gallina/thumbnail.png",
+      "bannerImageURL" : "http://colegiointernacionallevante.github.io/playGroundsBooks/Huevo-Gallina/banner.png",
+      "additionalInformation" : [
+        {
+          "name" : "Idiomas",
+          "value" : "Español,Inglés,Valenciano"
+        }
+      ],
+      "previewImageURLs" : []
+    }
+  ]
+}
